@@ -10,6 +10,6 @@ int main(void)
 	int y = 2;
 	int sum = x / y;
 
-	printf("%d", sum);
+	printf("%d", sum); /* Outputs 2 */
 	return (0);
 }
