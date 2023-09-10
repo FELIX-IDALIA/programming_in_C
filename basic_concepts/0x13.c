@@ -12,7 +12,7 @@ int main(void)
 	bool isUgaliTasty = false;
 
 	/* Return boolean values */
-	printf("%d\n", isProgrammingFun); /* Returns 1(true) */
-	printf("%d\n", isUgaliTasty); /* Returns 0(false) */
+	printf("%d Represents True\n", isProgrammingFun); /* Returns 1(true) */
+	printf("%d Represents False\n", isUgaliTasty); /* Returns 0(false) */
 	return (0);
 }
