@@ -11,7 +11,7 @@ int main(void)
 
 	if (myAge >= votingAge)
 	{
-		printf("He/she is old enough to vote!");
+		printf("Old enough to vote!");
 	}
 	else
 	{
